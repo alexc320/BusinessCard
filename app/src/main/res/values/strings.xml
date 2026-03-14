@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="personal_data">Крутов Алексей Алексеевич</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="phone_number">+7 (999) 999-99-99</string>
+    <string name="telegramm">t.me/alex</string>
+    <string name="email">krutovworky@gmail.com</string>
+</resources>
